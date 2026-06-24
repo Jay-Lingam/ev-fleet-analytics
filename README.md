@@ -57,8 +57,24 @@ Boulder's municipal EV charging network lacks visibility into usage patterns, st
 
 ## Author
 **Dhananjay Lingam** | Mechanical Engineering (EV specialization) → Data Analytics  
-[LinkedIn](www.linkedin.com/in/dhananjaylingam)
+[LinkedIn]([www.linkedin.com/in/dhananjaylingam](https://www.linkedin.com/in/dhananjaylingam/))
 
 ---
 
 ## Project structure
+
+ev-fleet-analytics/
+
+│
+
+├── EV_Fleet_Analytics.ipynb   # Full analysis notebook
+
+├── ev_fleet_final.csv         # Cleaned enriched dataset
+
+├── overview.png               # Dashboard — Overview page
+
+├── station_analysis.png       # Dashboard — Station Analysis page
+
+├── cluster_insights.png       # Dashboard — Cluster Insights page
+
+└── README.md
